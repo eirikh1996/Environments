@@ -1,0 +1,6 @@
+# To create a world config file, first create a root node of your world name
+# worldName:
+#   oxygen: true/false
+#   gravity: true/false
+#   statusEffects: List of status effects to be applied to players present in a world
+#   requiredArmor: List of armor a player is required to wear in order to not be affected by negative environments

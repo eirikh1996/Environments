@@ -1,0 +1,7 @@
+SuffocationDamage: 2.0
+SuffocationTickCooldown: 100
+GravityTickCooldown: 100
+TemperatureChecks: true
+
+#
+UseTemperatureUnit: Celsius

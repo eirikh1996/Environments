@@ -1,0 +1,11 @@
+name: Environments
+main: io.github.eirikh1996.environments.Environments
+version: '${project.version}'
+api-version: '1.13'
+commands:
+  environments:
+    aliases:
+      - env
+    usage: /environments
+libraries:
+  - 'org.jetbrains.kotlin:kotlin-stdlib:${kotlin.version}'
